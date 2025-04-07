@@ -54,6 +54,6 @@ Duplicate user_ids and mismatched rows were removed to ensure analysis accuracy.
 
 ## 🖼 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
